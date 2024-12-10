@@ -52,7 +52,7 @@
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 中文支持、支持 GPT4 和MJ绘图 |
-| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4 ，GPT-o1，canvas       | 有 | 邮箱注册     | 高     | 中文界面，无广告 |
+| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4 ，GPT-o1，canvas       | 有 | 邮箱注册     | 高     | 支持最新的GPT-o1-pro |
 | **熊猫 GPT**         | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 国内邮箱注册     | 中     | 新手友好 |
 
