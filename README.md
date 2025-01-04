@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-4，无需翻墙）
 
-> **更新时间：2025/1/3**  
+> **更新时间：2025/1/4**  
 > **作者：nasdli**
 
 **全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！**  
@@ -37,7 +37,7 @@
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 GPT4 和MJ绘图 |
-| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4 ，GPT-o1，canvas       | 有 | 国内邮箱注册     | 高     | 支持最新的GPT-o1-pro，实时语音对话|
+| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4 ，GPT-o1，canvas       | 有 | 国内邮箱注册     | 高     | 支持最新的GPT-o1-pro，实时语音对话，视频对话|
 | **熊猫 GPT**         | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 邮箱注册     | 中     | bug比较多，不大推荐 |
 ---
@@ -108,7 +108,7 @@
 
 本项目将定期更新新的镜像站点和使用教程！  
 欢迎通过以下渠道联系我们：
-- **提交问题**：通过 [GitHub Issues](https://github.com/your-repo/issues) 反馈问题。
+- **提交问题**：通过 [GitHub Issues](https://github.com/nasdli/chatgpt-4o/issues) 反馈问题。
 - **贡献资源**：如果您发现其他优质站点，可通过 Pull Request 提交。
 
 ### 🌟 支持我们：
