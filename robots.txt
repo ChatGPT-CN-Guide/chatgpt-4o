@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nasdli.github.io/chatgpt-4o/sitemap.xml
