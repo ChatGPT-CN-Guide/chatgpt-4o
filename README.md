@@ -6,12 +6,6 @@
 **全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多功能应用！**  
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-ChatGPT 官网入口：[https://chatgpt.com](https://chatgpt.com)
-
-ChatGPT 中文版入口：[https://gptcat.net/](https://gptcat.net/)
-
-ChatGPT 镜像网站入口：[https://snakegpt.work/chat](https://snakegpt.work/chat)
-
 
 ---
 
