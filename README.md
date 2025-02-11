@@ -35,12 +35,13 @@
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，为用户提供高效的中文访问体验：
 
-| 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
-|----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
-| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 GPT4 和MJ绘图 |
-| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4 ，GPT-o1，canvas       | 有 | 国内邮箱注册     | 高     | 支持最新的GPT-o1-pro，实时语音对话，视频对话|
-| **熊猫 GPT**         | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 稳定快速，支持 API 调用 |
-| **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 邮箱注册     | 中     | bug比较多，不大推荐 |
+| **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
+|----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
+| [snakegpt.work](https://snakegpt.work)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [gptcat.net](https://gptcat.net)         | GPT-4, GPT-o1, Claude, deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
+| [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
+
 ---
 
 ## ChatGPT 官网与中文版的区别
