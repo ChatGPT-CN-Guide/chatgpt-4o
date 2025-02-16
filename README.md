@@ -11,8 +11,8 @@
 
 ## 📋 目录
 1. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)
-2. [ChatGPT 官网与中文版的区别](#chatgpt-官网与中文版的区别)
-3. [国内可用的 ChatGPT 镜像网站推荐](#国内可用的-chatgpt-镜像网站推荐)
+2. [国内可用的 ChatGPT 镜像网站推荐](#国内可用的-chatgpt-镜像网站推荐)
+3. [ChatGPT 官网与中文版的区别](#chatgpt-官网与中文版的区别)
 4. [如何快速开始使用 ChatGPT 中文版](#如何快速开始使用-chatgpt-中文版)
 5. [ChatGPT 官网注册与使用教程](#chatgpt-官网注册与使用教程)
 5. [常见问题解答（FAQ）](#常见问题解答faq)
