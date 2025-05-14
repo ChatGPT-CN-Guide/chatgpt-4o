@@ -8,7 +8,7 @@
 快速开始 - 推荐的 ChatGPT 中文版服务： 
 
 ChatGPT 中文版：**[snakegpt.com.cn](https://snakegpt.com.cn)**  
-ChatGPT 镜像网站：**[chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)**
+ChatGPT 镜像网站：**[chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)**
 
 ---
 
@@ -42,7 +42,7 @@ ChatGPT 镜像网站：**[chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)*
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 运营时长两年，支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)         | GPT-4, GPT-o1, Claude, deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)         | GPT-4, GPT-o1, Claude, deepseek-r1  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5        | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
 
@@ -121,3 +121,4 @@ ChatGPT 镜像网站：**[chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)*
 如果觉得本项目对您有帮助，请为我们点亮 **Star**，让更多人发现这个资源！
 
 ---      
+ 
