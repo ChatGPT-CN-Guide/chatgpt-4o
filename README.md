@@ -8,7 +8,7 @@
 快速开始 - 推荐的 ChatGPT 中文版服务： 
 
 ChatGPT 中文版：**[snakegpt.com.cn](https://snakegpt.com.cn)**  
-ChatGPT 镜像网站：**[chat2.gptcat.cc](https://chat2.gptcat.cc)**
+ChatGPT 镜像网站：**[gptcat.cc](https://gptcat.cc)**
 
 ---
 
